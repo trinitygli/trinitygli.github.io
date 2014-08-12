@@ -1,2 +1,2 @@
-trinitygli.github.io
+trinitygli.com
 ====================
